@@ -1,7 +1,7 @@
 import java.nio.file.StandardOpenOption;
 
 public class Variables{
-    public static void main(String [] EGS){
+    public static void main(String [] args){
 
         //Declaracion de una variable de tipo entero.
         int edad= 25;
