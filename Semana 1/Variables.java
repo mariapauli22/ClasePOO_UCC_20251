@@ -1,7 +1,7 @@
 import java.nio.file.StandardOpenOption;
 
 public class Variables{
-    public static void main(string [] EGS){
+    public static void main(String [] EGS){
 
         //Declaracion de una variable de tipo entero.
         int edad= 25;
@@ -21,7 +21,7 @@ public class Variables{
         y la leyenda
          */
 
-        System.out.println("Nombre:"+ nombre + ", Edad: "+ edad + ¨,altura);
+        System.out.println("Nombre: " + nombre + ", Edad: " + edad + "Altura: " + altura);
         System.out.println("Estudiante: " + esEstudiante);
 
 
