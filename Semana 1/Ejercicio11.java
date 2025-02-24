@@ -1,5 +1,5 @@
 public class Ejercicio11 {
-import java.util.Arrays
+    import java.util.Arrays
     public static void main(String[] args) {
 
         // creacion del arreglo a de enteros de n elementos
