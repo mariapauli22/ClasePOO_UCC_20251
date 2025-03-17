@@ -9,7 +9,9 @@ public class Ejecutar {
     System.out.println(objEst2);
 
     //Modificar la edad del estudiante
-    objEst1.se
+    objEst1.setEdad(20);
+
+    System.out.println(objEst1);
 
     }
 }
