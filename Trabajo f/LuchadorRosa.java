@@ -3,8 +3,3 @@ public class LuchadorRosa extends Personaje {
         super(nombre);
     }
 }
-
-Public LuchadorRosa(String nombre, Arma arma){
-    super (nombre,arma);
-
-}
