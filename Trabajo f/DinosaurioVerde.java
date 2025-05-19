@@ -3,3 +3,8 @@ public class DinosaurioVerde extends Personaje {
         super(nombre);
     }
 }
+
+Public DinosaurioVerde (String nombre, Arma arma){
+    super (nombre,arma);
+
+}

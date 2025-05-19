@@ -36,5 +36,13 @@ public class JuegoLucha {
 
         JuegoLucha juego = new JuegoLucha(kirby, yoshi);
         juego.iniciarPelea();
+
+    Arma Pistola= New Arma ("Pistola", 40, 20);
+    Arma Rayo=  New Arma ("Rayo", 10, 30);
+
+    Personaje Kirby= new LuchadorRosa ("Kirby", Rayo);
+    Personaje Yoshi= new DinosaurioVerde("Yoshi", Pistola);
+
     }
 }
+
